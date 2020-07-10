@@ -8,7 +8,6 @@ A tracking app with the following features:
 - Lists all saved tracks
 - See more details on a saved track
 - Account Screen / Signout
--
 
 The backend is using mongoDB to help provide a set of CRUD services which the APP uses.
 
